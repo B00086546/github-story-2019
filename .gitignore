@@ -1,0 +1,5 @@
+# ignore .idea folder
+.idea/
+
+# windows thumbnail db
+Thumbs.db
