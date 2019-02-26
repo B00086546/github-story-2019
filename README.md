@@ -12,3 +12,5 @@ Chapter one has been started.
 
 Further additions have been added to chapter one.
 
+Finished chapter one but have yet to do any spell checks.
+
