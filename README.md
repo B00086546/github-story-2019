@@ -8,5 +8,7 @@ Story project has begun.
 
 #####26/02/2019#####
 
-Chapter one has been started
+Chapter one has been started.
+
+Further additions have been added to chapter one.
 
