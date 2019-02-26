@@ -14,3 +14,5 @@ Further additions have been added to chapter one.
 
 Finished chapter one but have yet to do any spell checks.
 
+Spelling and grammar mistakes have been corrected.
+
