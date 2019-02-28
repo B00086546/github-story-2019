@@ -16,3 +16,7 @@ Finished chapter one but have yet to do any spell checks.
 
 Spelling and grammar mistakes have been corrected.
 
+#####28/02/2019#####
+
+Chapter two has been started.
+
