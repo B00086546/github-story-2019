@@ -22,3 +22,5 @@ Chapter two has been started.
 
 Continued chapter two adding two more chapters.
 
+I'm happy with how chapter two is at the moment, will need to correct grammar and spelling mistakes in the next commit.
+
