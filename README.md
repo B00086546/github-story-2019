@@ -20,3 +20,5 @@ Spelling and grammar mistakes have been corrected.
 
 Chapter two has been started.
 
+Continued chapter two adding two more chapters.
+
