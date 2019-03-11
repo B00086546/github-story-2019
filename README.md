@@ -26,3 +26,13 @@ I'm happy with how chapter two is at the moment, will need to correct grammar an
 
 Corrected spelling and grammar in Chapter two.
 
+#####05/03/2019#####
+
+Chapter three has been created.
+
+#####11/03/2019#####
+
+Continuing chapter three added more content to the chapter.
+
+
+
