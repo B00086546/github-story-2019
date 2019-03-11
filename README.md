@@ -34,5 +34,4 @@ Chapter three has been created.
 
 Continuing chapter three added more content to the chapter.
 
-
-
+Added another few paragraphs to chapter three
