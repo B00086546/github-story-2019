@@ -36,4 +36,8 @@ Continuing chapter three added more content to the chapter.
 
 Added another few paragraphs to chapter three.
 
+#####12/03/2019#####
+
 Finished the final chapter, need to fix spelling mistakes.
+
+Completed Chapter Three.
