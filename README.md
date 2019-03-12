@@ -43,3 +43,5 @@ Finished the final chapter, need to fix spelling mistakes.
 Completed Chapter Three.
 
 Addressed 'Chapter01 Spelling Mistake' Issue.
+
+Addressed 'Chapter02 Capitalization missing' Issue.
