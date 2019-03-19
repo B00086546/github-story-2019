@@ -45,3 +45,7 @@ Completed Chapter Three.
 Addressed 'Chapter01 Spelling Mistake' Issue.
 
 Addressed 'Chapter02 Capitalization missing' Issue.
+
+#####19/03/2019#####
+
+Changed the filetype of all chapters on the Master branch to be .md files to allow for styled github pages.
