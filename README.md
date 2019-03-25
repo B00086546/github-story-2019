@@ -67,3 +67,5 @@ Went into the repository settings and enabled github pages.
 ### 25/03/2019
 
 Updated formatting in each chapter file to MarkDown formatting.
+
+Fixed formatting issue.
