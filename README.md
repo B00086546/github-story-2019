@@ -75,3 +75,5 @@ Updated formatting in each chapter file to MarkDown formatting.
 Fixed formatting issue.
 
 Added links to next chapter in each chapter file.
+
+Re-did Alternative Ending Branch to include github pages.

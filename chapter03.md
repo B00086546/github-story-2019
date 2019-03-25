@@ -14,8 +14,8 @@ Ben hops to his feet and awaits impatiently at the door, trotting back and forth
 
 The shepherd is welcomed with the sight of a barren landscape, branches and uprooted trees are scattered like confetti across the meadows in front of mine. with a whistle and a hand signal to Ben he sends his dog out to search for any sign of the herd. Ben searches and sniffs around for what seems like an eternity before he finds any sign of the sheep. a small tuff of fur stuck to a branch outside the entrance to a small cave like structure. Ben quickly begins barking for the shepherd’s attention.
 
-The shepherd finally arrives and catches his breath before peering into the deep dark cave. he takes a few steps inside and with a sigh of relieve he finds the entire herd of sheep with their lambs, seemingly unharmed, and all bundled into a corner together.
+The Shepherd arrives to the cave entrance, exhausted from running. he sees Ben sitting by the entrance waggingnhis tail and sniffing the tuff off fur left by one of his sheep. The Shepard cautiously steps into the cave, but instead of finding his whole flock, he finds one single lamb. One lamb shaking in fear in the cold corner of the cave. The Shepherd quickly picks up the lamb and tucks him under his jacket.
 
-"Thank Christ. Let's get you back to the cottage, that crazy spring storm is over."
+"Come on Ben, lets continue our search, this little guy can't be the only one."
 
 ### The End
