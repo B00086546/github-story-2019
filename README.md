@@ -12,6 +12,10 @@ https://b00086546.github.io/github-story-2019/
 
 [Chapter Three](chapter03.md)
 
+## Description
+
+This is a short story set in late spring about a shepherd, his dog, and their flock of sheep.
+
 ### 25/02/1019
 
 Story project has begun.
