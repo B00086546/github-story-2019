@@ -63,3 +63,7 @@ Addressed 'Chapter02 Capitalization missing' Issue.
 Changed the filetype of all chapters on the Master branch to be .md files to allow for styled github pages.
 
 Went into the repository settings and enabled github pages.
+
+### 25/03/2019
+
+Updated formatting in each chapter file to MarkDown formatting.
