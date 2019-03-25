@@ -73,3 +73,5 @@ Went into the repository settings and enabled github pages.
 Updated formatting in each chapter file to MarkDown formatting.
 
 Fixed formatting issue.
+
+Added links to next chapter in each chapter file.

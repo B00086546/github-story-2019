@@ -15,3 +15,4 @@ Both the Shepherd and Ben look towards each other
 
 With that being said, the Shepherd turns around and grunts as he bends over to rummage in the cupboard, soon returning with two tins, one dog food and the other chicken soup. The moment the two tins clink together Ben raises he ears and begins wagging his tail. The shepherd’s routine was very predictable even for a dog, ben knew he was about to have a good meal. 
 
+[Next Chapter](chapter02.md)

@@ -22,3 +22,4 @@ He looks to ben who’s now sitting beneath him, wagging his tail and looking up
 
 The shepherd gives Ben a few pats on his head before he rolls over in his bed, wanting to get some sleep before waking up early to check on the sheep.
 
+[Next Chapter](chapter03.md)
